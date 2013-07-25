@@ -1,22 +1,22 @@
 Concepts to know about
 ----------------------
- * **MVC** - Model-View-Controller
- * **MVT** - Model-View-Template
- * Links to read from:
+* **MVC** - Model-View-Controller
+* **MVT** - Model-View-Template
+* Links to read from:
      * https://en.wikipedia.org/wiki/Model-view-controller
      * http://www.codinghorror.com/blog/2008/05/understanding-model-view-controller.html
  
 Example of large-scale MVC/T Web frameworks/CMS in python
 ---------------------------------------------------------
- * Plone - <http://plone.org>
- * Django (_D_ is silent) - <https://www.djangoproject.com>
- * Pyramid - <http://www.pylonsproject.org/projects‎>
+* Plone - <http://plone.org>
+* Django (_D_ is silent) - <https://www.djangoproject.com>
+* Pyramid - <http://www.pylonsproject.org/projects>
  
 Minimalistic MVC/T Web frameworks
 ---------------------------------
- * Bottle - <http://bottlepy.org/‎>
- * Flask - <http://flask.pocoo.org>
- * web.py - <http://webpy.org>
+* Bottle - <http://bottlepy.org/>
+* Flask - <http://flask.pocoo.org>
+* web.py - <http://webpy.org>
 
 simple web.py app to say hello to visitors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
